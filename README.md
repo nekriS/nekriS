@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<h1 align="right">
-<img src="https://i.gifer.com/fz6c.gif" height="70"/></h1>
+<h1 align="right">Text
+  <iframe src="https://gifer.com/embed/fz6c" width=480 height=270.000 frameBorder="0" allowFullScreen></iframe
+</h1>
 
-
+>
 
 <!--
 **nekriS/nekriS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
