@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<h1 align="right">
+<img src="https://i.gifer.com/fz6c.gif" height="70"/></h1>
+
+
+
 <!--
 **nekriS/nekriS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
