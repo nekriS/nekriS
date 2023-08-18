@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<iframe src="https://gifer.com/embed/fz6c" width=480 height=270.000 frameBorder="0" allowFullScreen></iframe>
+<img src="https://gifer.com/embed/fz6c" width=480 height=270.000 frameBorder="0" allowFullScreen/>
 
 >
 
