@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<img src="https://gifer.com/embed/fz6c" width=480 height=270.000 frameBorder="0" allowFullScreen/>
 
->
+<h1 align="center">Hi
+<img src="https://u.cubeupload.com/nekris/imageprocessing20210.gif" height="70"/></h1>
+
+
 
 <!--
 **nekriS/nekriS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
