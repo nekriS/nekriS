@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Stats</h1>
+  <h2>Stats</h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nekriS&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nekriS&theme=github)
