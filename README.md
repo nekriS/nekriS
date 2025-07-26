@@ -1,7 +1,7 @@
 
 ### About me
 
-Hello! My name is Lev. I'm passionate about working on projects, whether for professional purposes or just for fun. I enjoy exploring new ideas and bringing them to life through creative problem-solving. I have received my education from two prestigious institutions: **LETI** (Saint Petersburg Electrotechnical University) and **ITMO University**.
+Hello! My name is Lev. I'm passionate about working on projects, whether for professional purposes or just for fun. I enjoy exploring new ideas and bringing them to life through creative problem-solving. I have received my education from two prestigious institutions: **ETU** (Saint Petersburg Electrotechnical University) and **ITMO University**.
 
 My programming skills include **Python**, **Tcl**, and **C++**.
 I work with technologies such as **pandas**, **NumPy**, and **openpyxl**, which form the core of my data processing and automation stack.
